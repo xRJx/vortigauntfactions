@@ -60,7 +60,7 @@ PLUGIN.voices:AddVortigaunt("Vortigaunt", "Mutual Feeling", "The feeling is mutu
 PLUGIN.voices:AddVortigaunt("Vortigaunt", "Mystery", "We serve the same mystery.", "vo/npc/vortigaunt/mystery.wav")
 PLUGIN.voices:AddVortigaunt("Vortigaunt", "Onward", "Onward!", "vo/npc/vortigaunt/onward.wav")
 PLUGIN.voices:AddVortigaunt("Vortigaunt", "Opaque", "Your mind is opaque.", "vo/npc/vortigaunt/opaque.wav")
-PLUGIN.voices:AddVortigaunt("Vortigaunt", "Our Place", "Our place is here.", "vo/npc/vortigaunt/.wav")
+PLUGIN.voices:AddVortigaunt("Vortigaunt", "Our Place", "Our place is here.", "vo/npc/vortigaunt/ourplacehere.wav")
 PLUGIN.voices:AddVortigaunt("Vortigaunt", "Pleasure", "With pleasure...", "vo/npc/vortigaunt/pleasure.wav")
 PLUGIN.voices:AddVortigaunt("Vortigaunt", "Prevail", "We shall prevail.", "vo/npc/vortigaunt/prevail.wav")
 PLUGIN.voices:AddVortigaunt("Vortigaunt", "Regrettable", "This is regrettable.", "vo/npc/vortigaunt/regrettable.wav")
